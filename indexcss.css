@@ -84,8 +84,7 @@ nav{
 
 }
 .slider{
-  width:90%;
-  margin-left:70px;
+  width:100%;
   margin-top: 60px;
   margin-bottom: 60px;
   height:600px;
@@ -104,9 +103,8 @@ nav{
   }
 .wrapper {
   display: flex;
-  width: 90%;
+  width: 100%;
   justify-content: space-evenly;
-  margin-left: 80px;
 }
 
 .card {
