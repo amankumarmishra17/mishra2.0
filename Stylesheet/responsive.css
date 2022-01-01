@@ -1,0 +1,24 @@
+@media screen and (max-width:385px) and (min-width:0px) {
+    .nav-list-right {
+        flex-direction: column;
+        margin: auto;
+        width: auto;
+
+    }
+
+    .nav-list-left {
+        flex-direction: column;
+        margin: auto;
+        width: auto;
+    }
+
+    .navbar {
+        flex-direction: column;
+
+    }
+
+    .nav-list-right li {
+        padding: 2px !important;
+        margin: 17px 2px;
+    }
+}
